@@ -1,0 +1,1 @@
+Most algorithms based on Reinforcement Learning: An Introduction (Sutton and Barto), available at http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html
